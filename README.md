@@ -4,16 +4,16 @@
 
 Teendők / tartalomjegyzék:
 
-- [x] ~~[munka](#munka)~~
-- [ ] [lakás](#lakas)
-- [ ] [meldezettel](#meldezettel)
-- [ ] [bank](#bank)
-- [ ] [mobil](#mobil)
-- [ ] [anmeldebescheinigung](#anmeldebescheinigung)
-- [ ] [ecard](#ecard)
-- [ ] [ügyintézés](#ugyintezes)
-- [ ] [egyéb](#egyeb)
-- [ ] [állampolgárság](#allampolgarsag)
+- ~~[munka](#munka)~~
+- [lakás](#lakas)
+- [meldezettel](#meldezettel)
+- [bank](#bank)
+- [mobil](#mobil)
+- [anmeldebescheinigung](#anmeldebescheinigung)
+- [ecard](#ecard)
+- [ügyintézés](#ugyintezes)
+- [egyéb](#egyeb)
+- [állampolgárság](#allampolgarsag)
 
 ## Munka <a id="munka"></a>
 
