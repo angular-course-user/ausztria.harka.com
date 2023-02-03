@@ -1,8 +1,5 @@
 # Austria
 
-- [ ] Hali
-- [x] gali
-
 Teendők: ~~[munka](#munka)~~, [lakás](#lakas), [meldezettel](#meldezettel), [bank](#bank), [mobil](#mobil), [ügyintézés](#ugyintezes), [egyéb](#egyeb)
 
 ## Munka <a id="munka"></a>
