@@ -1,12 +1,20 @@
-# Austria <a id="top"></a>
+# Ausztria <a id="top"></a>
 
-Teendők: ~~[munka](#munka)~~, [lakás](#lakas), [meldezettel](#meldezettel), [bank](#bank), [mobil](#mobil), [ügyintézés](#ugyintezes), [egyéb](#egyeb)
+Teendők: ~~[munka](#munka)~~, [lakás](#lakas), [meldezettel](#meldezettel), [bank](#bank), [mobil](#mobil), [anmeldebescheinigung](#anmeldebescheinigung), [ecard](#ecard) [ügyintézés](#ugyintezes), [egyéb](#egyeb)
 
 ## Munka <a id="munka"></a>
 
-dsfgdfgdfg
+FB csoportok
 
-[Top ↑](#top)
+https://www.karriere.at
+
+https://www.itstellen.at
+
+https://www.apsa.at/en/job-market/
+
+[Sportradar](https://sportradar.com) interview! Coding challenge! Felvettek!
+
+[Fel ↑](#top)
 
 ## Lakás <a id="lakas"></a>
 
@@ -46,13 +54,15 @@ főbérlő
 
 \- mosógép
 
-[Top ↑](#top)
+[Fel ↑](#top)
 
 ## Meldezettel <a id="meldezettel"></a>
 
-sdfsdfsdf
+Amikor van mar lakas es szerzodes, akkor be kell menned a hivatalba es ki kell kerned a Meldezettelt. (Igazolas van lakcimed)
 
-[Top ↑](#top)
+[https://www.wien.gv.at/amtshelfer/dokumente/verwaltung/meldeservice/anmeldung.html](https://www.google.com/url?q=https://www.wien.gv.at/amtshelfer/dokumente/verwaltung/meldeservice/anmeldung.html&sa=D&source=editors&ust=1675449884423620&usg=AOvVaw3IDGrieJLTjrBC3EISCcsx)
+
+[Fel ↑](#top)
 
 ## Bank <a id="bank"></a>
 
@@ -62,7 +72,7 @@ En a Bank99 -nel bankolok, mert nincs semmifele kezelesi koltseg. (Csak a hitelk
 
 (Online is lehet nyitni)
 
-[Top ↑](#top)
+[Fel ↑](#top)
 
 ## Mobil <a id="mobil"></a>
 
@@ -70,17 +80,29 @@ Mobilra pedig a Magentat hasznalom (Azert jo, mert nem kell evekre alairni, olcs
 
 [https://www.magenta.at/handytarife/wertkarte](https://www.google.com/url?q=https://www.magenta.at/handytarife/wertkarte&sa=D&source=editors&ust=1675449884422475&usg=AOvVaw0XhUz_iEw9VflFUHRFEadf)
 
-[Top ↑](#top)
+[Fel ↑](#top)
 
-## Ügyintézés <a id="ugyintezes"></a>
+## Anmeldebescheinigung <a id="anmeldebescheinigung"></a>
 
-Amikor van mar lakas es szerzodes, akkor be kell menned a hivatalba es ki kell kerned a Meldezettelt. (Igazolas van lakcimed)
+Ha a Meldezettel meg van, akkor egy honapod van hogy megcsinaltasd az
 
-[https://www.wien.gv.at/amtshelfer/dokumente/verwaltung/meldeservice/anmeldung.html](https://www.google.com/url?q=https://www.wien.gv.at/amtshelfer/dokumente/verwaltung/meldeservice/anmeldung.html&sa=D&source=editors&ust=1675449884423620&usg=AOvVaw3IDGrieJLTjrBC3EISCcsx)
-
-Ha a Meldezettel meg van, akkor egy honapod van hogy megcsinaltasd az Anmeldebescheinigung -ot (Igazolas hogy eletvitelszeruen itt elsz)
+Anmeldebescheinigung-ot (Igazolas hogy eletvitelszeruen itt elsz)
 
 [https://www.wien.gv.at/amtshelfer/dokumente/aufenthalt/ewr/bescheinigungen/arbeitnehmer.html](https://www.google.com/url?q=https://www.wien.gv.at/amtshelfer/dokumente/aufenthalt/ewr/bescheinigungen/arbeitnehmer.html&sa=D&source=editors&ust=1675449884424415&usg=AOvVaw2KniUBIaTfkInPkaKskZdy)
+
+[Fel ↑](#top)
+
+## Ecard <a id="ecard"></a>
+
+A biztosítást pedig (feltételezem) a cég fizeti. Rendelnek majd hozzád egy társadalombiztosítási számot (SV Nummer). Ha ez megvan, akkor el tudnak látni a rendelőben/kórházban. De nem árt, ha van egy ún ecardod, ami kb egy tajkártya, csak sokkal körülményesebb, meg hivatalosabb. Kell majd hozzá egy (igazoltan 6 hónapnál nem idősebb igazolványfotó), ami mint egy vízumfotó, bizonyos követelményeknek eleget kell, hogy tegyen. Ezt sztem Mo-on is el lehet intézni, és bizonyosan olcsóbb, mint itt a sógoréknál. (Itt egységesen 12 Euró minden fotóboxban. )
+
+[https://www.chipkarte.at/cdscontent/?contentid=10007.853312&portal=ecardportal](https://www.chipkarte.at/cdscontent/?contentid=10007.853312&portal=ecardportal&fbclid=IwAR3KlQsWqiqsmALxeuDigBI-oKDW3oV2dH31HdaGM007FixXE6PKcsUdd8E)
+
+itt tudsz majd regisztrálni: -> elektronische Terminvereinbarung, illetve kritériumok: -> Passbildkriterien.
+
+[Fel ↑](#top)
+
+## Ügyintézés <a id="ugyintezes"></a>
 
 Magyarorszagon is kell majd jelentkezned a rendszebol. Tarsadalombiztositonal kell lejelentened, hogy mar kulfoldon elsz.
 
@@ -94,7 +116,7 @@ A lakcím bejelentés a következő.
 
 \2. Amikortól a lakcímedet bejelentetted, 4 hónapod van a bevándorlási hivatalban is bejelenteni, h bizony tartósan itt akarsz lakni. Ha ezt nem teszed meg, annak elvileg lesz következménye (anyagi), de hogy mi és mennyi fogalmam sincs. Meldezettelnél adnak pontos infókat, hogy hogyan kell ezt csinálni.
 
-[Top ↑](#top)
+[Fel ↑](#top)
 
 ## Egyéb <a id="egyeb"></a>
 
@@ -102,4 +124,4 @@ A lakcím bejelentés a következő.
 - don't forget the Anmeldgebescheinigung, I got fined for lacking it.
 - Majd érdemes figyelni a GIS re (tv-rádió adó), ill. az egyházi adóra. (Ha beírod, hogy milyen vallású vagy, jon automatikusan.) Pontos osszegeket nem tudok, itt biztosan kapsz választ.
 
-[Top ↑](#top)
+[Fel ↑](#top)
