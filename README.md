@@ -1,16 +1,16 @@
 # Ausztria <a id="top"></a>
 
-Teendők: ~~[munka](#munka)~~, [lakás](#lakas), [meldezettel](#meldezettel), [bank](#bank), [mobil](#mobil), [anmeldebescheinigung](#anmeldebescheinigung), [ecard](#ecard) [ügyintézés](#ugyintezes), [egyéb](#egyeb)
+Teendők: ~~[munka](#munka)~~, [lakás](#lakas), [meldezettel](#meldezettel), [bank](#bank), [mobil](#mobil), [anmeldebescheinigung](#anmeldebescheinigung), [ecard](#ecard), [ügyintézés](#ugyintezes), [egyéb](#egyeb), [állampolgárság](#allampolgarsag)
 
 ## Munka <a id="munka"></a>
 
 FB csoportok
 
-https://www.karriere.at
+[https://www.karriere.at](https://www.karriere.at)
 
-https://www.itstellen.at
+[https://www.itstellen.at](https://www.itstellen.at)
 
-https://www.apsa.at/en/job-market/
+[https://www.apsa.at/en/job-market/](https://www.apsa.at/en/job-market/)
 
 [Sportradar](https://sportradar.com) interview! Coding challenge! Felvettek!
 
@@ -94,6 +94,8 @@ Anmeldebescheinigung-ot (Igazolas hogy eletvitelszeruen itt elsz)
 
 ## Ecard <a id="ecard"></a>
 
+Biztosításra Sárát "manuálisan" be kell jelenteni, hogy biztosítva legyen! Akkor ő is biztosítva lesz, ha van munkám.
+
 A biztosítást pedig (feltételezem) a cég fizeti. Rendelnek majd hozzád egy társadalombiztosítási számot (SV Nummer). Ha ez megvan, akkor el tudnak látni a rendelőben/kórházban. De nem árt, ha van egy ún ecardod, ami kb egy tajkártya, csak sokkal körülményesebb, meg hivatalosabb. Kell majd hozzá egy (igazoltan 6 hónapnál nem idősebb igazolványfotó), ami mint egy vízumfotó, bizonyos követelményeknek eleget kell, hogy tegyen. Ezt sztem Mo-on is el lehet intézni, és bizonyosan olcsóbb, mint itt a sógoréknál. (Itt egységesen 12 Euró minden fotóboxban. )
 
 [https://www.chipkarte.at/cdscontent/?contentid=10007.853312&portal=ecardportal](https://www.chipkarte.at/cdscontent/?contentid=10007.853312&portal=ecardportal&fbclid=IwAR3KlQsWqiqsmALxeuDigBI-oKDW3oV2dH31HdaGM007FixXE6PKcsUdd8E)
@@ -123,5 +125,13 @@ A lakcím bejelentés a következő.
 - Tv adó?
 - don't forget the Anmeldgebescheinigung, I got fined for lacking it.
 - Majd érdemes figyelni a GIS re (tv-rádió adó), ill. az egyházi adóra. (Ha beírod, hogy milyen vallású vagy, jon automatikusan.) Pontos osszegeket nem tudok, itt biztosan kapsz választ.
+
+[Fel ↑](#top)
+
+
+
+## Állampolgárság <a id="allampolgarsag"></a>
+
+EU-s állampolgárként 6 év, amúgy 10 év legalább 5 év állandó ottani lakhellyel.
 
 [Fel ↑](#top)
