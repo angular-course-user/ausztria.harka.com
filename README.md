@@ -1,10 +1,11 @@
 # Austria
 
+- [ ] Hali
+- [x] gali
+
 Teendők: ~~[munka](#munka)~~, [lakás](#lakas), [meldezettel](#meldezettel), [bank](#bank), [mobil](#mobil), [ügyintézés](#ugyintezes), [egyéb](#egyeb)
 
 ## Munka <a id="munka"></a>
-
-
 
 dsfgdfgdfg
 
@@ -26,8 +27,6 @@ Alapvetoen az iroda a 22. keruletben van es amugy is itt van a legtobb uj epites
 
 [https://www.google.com/maps/place/Seestadt/@48.2256511,16.5036036,17z](https://www.google.com/url?q=https://www.google.com/maps/place/Seestadt/@48.2256511,16.5036036,17z/data%3D!3m1!4b1!4m5!3m4!1s0x476d01a12ac24915:0x612efe890ee398c1!8m2!3d48.2256476!4d16.5080883&sa=D&source=editors&ust=1675449884418108&usg=AOvVaw3VEr7tj5hsF_Kna1ao_4_n)
 
-
-
 márciustól
 
 900-950 eur
@@ -44,19 +43,13 @@ főbérlő
 
 20-40 eur parkolás
 
-
-
 \+ hűtő, mosogató gép, sütő
 
 \- mosógép
 
-
-
 ## Meldezettel <a id="meldezettel"></a>
 
 sdfsdfsdf
-
-
 
 ## Bank <a id="bank"></a>
 
@@ -71,8 +64,6 @@ En a Bank99 -nel bankolok, mert nincs semmifele kezelesi koltseg. (Csak a hitelk
 Mobilra pedig a Magentat hasznalom (Azert jo, mert nem kell evekre alairni, olcso es jo a lefedettseg)
 
 [https://www.magenta.at/handytarife/wertkarte](https://www.google.com/url?q=https://www.magenta.at/handytarife/wertkarte&sa=D&source=editors&ust=1675449884422475&usg=AOvVaw0XhUz_iEw9VflFUHRFEadf)
-
-
 
 ## Ügyintézés <a id="ugyintezes"></a>
 
@@ -90,21 +81,13 @@ Az elso ev vegen mindket orszagban kell adobevallast csinalnod.
 
 [https://finanzonline.bmf.gv.at/fon/](https://www.google.com/url?q=https://finanzonline.bmf.gv.at/fon/&sa=D&source=editors&ust=1675449884425233&usg=AOvVaw3BjJeL3ESVZcPZOKIeS5vX)
 
-
-
 A lakcím bejelentés a következő.
-
-
 
 \1. El kell menni egy hivatalba, ahol be kell ezt "jelenteni". Van egy formanyomtatvány, úgy nevezik, hogy Meldezettel, amit előre ki kell tölteni, szállásadóval aláíratni (ha te vagy a főbérlő, akkor a házvezetés (Hausverwaltung) írja alá. A hivatlban meg az a cél, hogy ők ezt lepecsételjék. Ezt a papírt nem árt, h az ember lefotózza, beszkenneli, hogy digitális formában is meglegyen. (Bankban számlanyitáskor, telefonszámla nyitáskor, munkavállaláskor szokták kérni.) A hivatalban 2-3 héttel előre kell időpontot foglalni (legalábbis nálam így volt). Itt tudsz időpontot foglalni: [https://www.wien.gv.at/verwaltung/meldeservice/stellen.html](https://www.google.com/url?q=https://www.wien.gv.at/verwaltung/meldeservice/stellen.html&sa=D&source=editors&ust=1675449884426346&usg=AOvVaw2DciOmTu_KRIK4v65YTa8I) -> Online Terminreservierung -> és kiválasztod, h melyik kerületben. A formanyomtatványt meg itt tudod letölteni: [https://www.oesterreich.gv.at/dam/jcr:38f0c638-c65a-4d06-98fe-ac4171607a3a/meldezettel.pdf](https://www.google.com/url?q=https://www.oesterreich.gv.at/dam/jcr:38f0c638-c65a-4d06-98fe-ac4171607a3a/meldezettel.pdf&sa=D&source=editors&ust=1675449884426921&usg=AOvVaw3IbOU5bAa05DuAyUfPFg6j)
 
 \2. Amikortól a lakcímedet bejelentetted, 4 hónapod van a bevándorlási hivatalban is bejelenteni, h bizony tartósan itt akarsz lakni. Ha ezt nem teszed meg, annak elvileg lesz következménye (anyagi), de hogy mi és mennyi fogalmam sincs. Meldezettelnél adnak pontos infókat, hogy hogyan kell ezt csinálni.
 
-
-
 ## Egyéb <a id="egyeb"></a>
-
-
 
 - Tv adó?
 - don't forget the Anmeldgebescheinigung, I got fined for lacking it.
