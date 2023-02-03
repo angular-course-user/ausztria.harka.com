@@ -2,15 +2,15 @@
 
 Teendők / tartalomjegyzék:
 
-<input type="checkbox" checked>~~[munka](#munka)~~
-<input type="checkbox"> [lakás](#lakas)
-<input type="checkbox"> [meldezettel](#meldezettel)
-<input type="checkbox"> [bank](#bank)
-<input type="checkbox"> [mobil](#mobil)
-<input type="checkbox"> [anmeldebescheinigung](#anmeldebescheinigung)
-<input type="checkbox"> [ecard](#ecard)
-<input type="checkbox"> [ügyintézés](#ugyintezes)
-<input type="checkbox"> [egyéb](#egyeb)
+<input type="checkbox" checked> ~~[munka](#munka)~~  
+<input type="checkbox"> [lakás](#lakas)  
+<input type="checkbox"> [meldezettel](#meldezettel)  
+<input type="checkbox"> [bank](#bank)  
+<input type="checkbox"> [mobil](#mobil)  
+<input type="checkbox"> [anmeldebescheinigung](#anmeldebescheinigung)  
+<input type="checkbox"> [ecard](#ecard)  
+<input type="checkbox"> [ügyintézés](#ugyintezes)  
+<input type="checkbox"> [egyéb](#egyeb)  
 <input type="checkbox"> [állampolgárság](#allampolgarsag)
 
 ## Munka <a id="munka"></a>
