@@ -1,6 +1,16 @@
 # Ausztria <a id="top"></a>
 
-Teendők: ~~[munka](#munka)~~, [lakás](#lakas), [meldezettel](#meldezettel), [bank](#bank), [mobil](#mobil), [anmeldebescheinigung](#anmeldebescheinigung), [ecard](#ecard), [ügyintézés](#ugyintezes), [egyéb](#egyeb), [állampolgárság](#allampolgarsag)
+Teendők:
+[ ] ~~[munka](#munka)~~
+[ ] [lakás](#lakas)
+[ ] [meldezettel](#meldezettel)
+[ ] [bank](#bank)
+[ ] [mobil](#mobil)
+[ ] [anmeldebescheinigung](#anmeldebescheinigung)
+[ ] [ecard](#ecard)
+[ ] [ügyintézés](#ugyintezes)
+[ ] [egyéb](#egyeb)
+[ ] [állampolgárság](#allampolgarsag)
 
 ## Munka <a id="munka"></a>
 
@@ -127,8 +137,6 @@ A lakcím bejelentés a következő.
 - Majd érdemes figyelni a GIS re (tv-rádió adó), ill. az egyházi adóra. (Ha beírod, hogy milyen vallású vagy, jon automatikusan.) Pontos osszegeket nem tudok, itt biztosan kapsz választ.
 
 [Fel ↑](#top)
-
-
 
 ## Állampolgárság <a id="allampolgarsag"></a>
 
