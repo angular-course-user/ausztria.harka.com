@@ -1,7 +1,5 @@
 # Ausztria <a id="top"></a>
 
-<!--- <style>  ul {  list-style-type: none;}</style> --->
-
 Teendők / tartalomjegyzék:
 
 - ~~[munka](#munka)~~
@@ -71,6 +69,8 @@ főbérlő
 
 ## Meldezettel <a id="meldezettel"></a>
 
+> Feltétel: [lakás](#lakas)
+
 Amikor van mar lakas es szerzodes, akkor be kell menned a hivatalba es ki kell kerned a Meldezettelt. (Igazolas van lakcimed)
 
 [https://www.wien.gv.at/amtshelfer/dokumente/verwaltung/meldeservice/anmeldung.html](https://www.google.com/url?q=https://www.wien.gv.at/amtshelfer/dokumente/verwaltung/meldeservice/anmeldung.html&sa=D&source=editors&ust=1675449884423620&usg=AOvVaw3IDGrieJLTjrBC3EISCcsx)
@@ -78,6 +78,8 @@ Amikor van mar lakas es szerzodes, akkor be kell menned a hivatalba es ki kell k
 [Fel ↑](#top)
 
 ## Bank <a id="bank"></a>
+
+> Feltétel: [meldezettel](#meldezettel)
 
 En a Bank99 -nel bankolok, mert nincs semmifele kezelesi koltseg. (Csak a hitelkratlyanal….de arra pedig Revolut-ot hasznalok)
 
@@ -89,6 +91,8 @@ En a Bank99 -nel bankolok, mert nincs semmifele kezelesi koltseg. (Csak a hitelk
 
 ## Mobil <a id="mobil"></a>
 
+> Feltétel: [meldezettel](#meldezettel)
+
 Mobilra pedig a Magentat hasznalom (Azert jo, mert nem kell evekre alairni, olcso es jo a lefedettseg)
 
 [https://www.magenta.at/handytarife/wertkarte](https://www.google.com/url?q=https://www.magenta.at/handytarife/wertkarte&sa=D&source=editors&ust=1675449884422475&usg=AOvVaw0XhUz_iEw9VflFUHRFEadf)
@@ -97,9 +101,9 @@ Mobilra pedig a Magentat hasznalom (Azert jo, mert nem kell evekre alairni, olcs
 
 ## Anmeldebescheinigung <a id="anmeldebescheinigung"></a>
 
-Ha a Meldezettel meg van, akkor egy honapod van hogy megcsinaltasd az
+> Feltétel: [meldezettel](#meldezettel)
 
-Anmeldebescheinigung-ot (Igazolas hogy eletvitelszeruen itt elsz)
+Ha a Meldezettel meg van, akkor egy honapod van hogy megcsinaltasd az Anmeldebescheinigung-ot (Igazolas hogy eletvitelszeruen itt elsz)
 
 [https://www.wien.gv.at/amtshelfer/dokumente/aufenthalt/ewr/bescheinigungen/arbeitnehmer.html](https://www.google.com/url?q=https://www.wien.gv.at/amtshelfer/dokumente/aufenthalt/ewr/bescheinigungen/arbeitnehmer.html&sa=D&source=editors&ust=1675449884424415&usg=AOvVaw2KniUBIaTfkInPkaKskZdy)
 
@@ -107,9 +111,11 @@ Anmeldebescheinigung-ot (Igazolas hogy eletvitelszeruen itt elsz)
 
 ## Ecard <a id="ecard"></a>
 
+> Feltétel: [meldezettel](#meldezettel)
+
 Biztosításra Sárát "manuálisan" be kell jelenteni, hogy biztosítva legyen! Akkor ő is biztosítva lesz, ha van munkám.
 
-A biztosítást pedig (feltételezem) a cég fizeti. Rendelnek majd hozzád egy társadalombiztosítási számot (SV Nummer). Ha ez megvan, akkor el tudnak látni a rendelőben/kórházban. De nem árt, ha van egy ún ecardod, ami kb egy tajkártya, csak sokkal körülményesebb, meg hivatalosabb. Kell majd hozzá egy (igazoltan 6 hónapnál nem idősebb igazolványfotó), ami mint egy vízumfotó, bizonyos követelményeknek eleget kell, hogy tegyen. Ezt sztem Mo-on is el lehet intézni, és bizonyosan olcsóbb, mint itt a sógoréknál. (Itt egységesen 12 Euró minden fotóboxban. )
+A biztosítást pedig (> Feltételezem) a cég fizeti. Rendelnek majd hozzád egy társadalombiztosítási számot (SV Nummer). Ha ez megvan, akkor el tudnak látni a rendelőben/kórházban. De nem árt, ha van egy ún ecardod, ami kb egy tajkártya, csak sokkal körülményesebb, meg hivatalosabb. Kell majd hozzá egy (igazoltan 6 hónapnál nem idősebb igazolványfotó), ami mint egy vízumfotó, bizonyos követelményeknek eleget kell, hogy tegyen. Ezt sztem Mo-on is el lehet intézni, és bizonyosan olcsóbb, mint itt a sógoréknál. (Itt egységesen 12 Euró minden fotóboxban. )
 
 [https://www.chipkarte.at/cdscontent/?contentid=10007.853312&portal=ecardportal](https://www.chipkarte.at/cdscontent/?contentid=10007.853312&portal=ecardportal&fbclid=IwAR3KlQsWqiqsmALxeuDigBI-oKDW3oV2dH31HdaGM007FixXE6PKcsUdd8E)
 
