@@ -1,10 +1,12 @@
-# Austria
+# Austria <a id="top"></a>
 
 Teendők: ~~[munka](#munka)~~, [lakás](#lakas), [meldezettel](#meldezettel), [bank](#bank), [mobil](#mobil), [ügyintézés](#ugyintezes), [egyéb](#egyeb)
 
 ## Munka <a id="munka"></a>
 
 dsfgdfgdfg
+
+[Top ↑](#top)
 
 ## Lakás <a id="lakas"></a>
 
@@ -44,9 +46,13 @@ főbérlő
 
 \- mosógép
 
+[Top ↑](#top)
+
 ## Meldezettel <a id="meldezettel"></a>
 
 sdfsdfsdf
+
+[Top ↑](#top)
 
 ## Bank <a id="bank"></a>
 
@@ -56,11 +62,15 @@ En a Bank99 -nel bankolok, mert nincs semmifele kezelesi koltseg. (Csak a hitelk
 
 (Online is lehet nyitni)
 
+[Top ↑](#top)
+
 ## Mobil <a id="mobil"></a>
 
 Mobilra pedig a Magentat hasznalom (Azert jo, mert nem kell evekre alairni, olcso es jo a lefedettseg)
 
 [https://www.magenta.at/handytarife/wertkarte](https://www.google.com/url?q=https://www.magenta.at/handytarife/wertkarte&sa=D&source=editors&ust=1675449884422475&usg=AOvVaw0XhUz_iEw9VflFUHRFEadf)
+
+[Top ↑](#top)
 
 ## Ügyintézés <a id="ugyintezes"></a>
 
@@ -84,8 +94,12 @@ A lakcím bejelentés a következő.
 
 \2. Amikortól a lakcímedet bejelentetted, 4 hónapod van a bevándorlási hivatalban is bejelenteni, h bizony tartósan itt akarsz lakni. Ha ezt nem teszed meg, annak elvileg lesz következménye (anyagi), de hogy mi és mennyi fogalmam sincs. Meldezettelnél adnak pontos infókat, hogy hogyan kell ezt csinálni.
 
+[Top ↑](#top)
+
 ## Egyéb <a id="egyeb"></a>
 
 - Tv adó?
 - don't forget the Anmeldgebescheinigung, I got fined for lacking it.
 - Majd érdemes figyelni a GIS re (tv-rádió adó), ill. az egyházi adóra. (Ha beírod, hogy milyen vallású vagy, jon automatikusan.) Pontos osszegeket nem tudok, itt biztosan kapsz választ.
+
+[Top ↑](#top)
