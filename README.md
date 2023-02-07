@@ -11,6 +11,7 @@ Teendők / tartalomjegyzék:
 - [biztosítás](#biztositas)
 - [anmeldebescheinigung](#anmeldebescheinigung)
 - [ecard](#ecard)
+- [hauptwohnsitzmeldung](#hauptwohnsitzmeldung)
 - [ügyintézés](#ugyintezes)
 - [támogatások](#tamogatasok)
 - [állampolgárság](#allampolgarsag)
@@ -20,7 +21,11 @@ Teendők / tartalomjegyzék:
 
 ## Munka <a id="munka"></a>
 
-FB csoportok
+[Bécsi Magyarok](https://www.facebook.com/groups/274342695979311/) | Fb csoport
+
+[English Speakers in Austria](https://www.facebook.com/groups/austria.english.speakers) | Fb csoport
+
+[Jobs für Softwareentwickler und Webdesigner](https://www.facebook.com/groups/webentwickler.jobs/) | Fb csoport
 
 https://jobs.ams.at/public/emps/
 
@@ -30,7 +35,11 @@ https://jobs.ams.at/public/emps/
 
 [https://www.apsa.at/en/job-market/](https://www.apsa.at/en/job-market/)
 
-[Sportradar](https://sportradar.com) interview! Coding challenge! Felvettek!
+[Austria, Vienna, Wien, IT, Startup, Österreich, Gründer, Founders](https://www.facebook.com/groups/startup.austria/)
+
+[Job in Austria](https://www.facebook.com/groups/2262445737409292/) | Fb group
+
+**[Sportradar](https://sportradar.com) interview! Coding challenge! Felvettek!**
 
 [Fel ↑](#top)
 
@@ -88,6 +97,8 @@ Amikor van mar lakas es szerzodes, akkor be kell menned a hivatalba es ki kell k
 
 [https://www.wien.gv.at/amtshelfer/dokumente/verwaltung/meldeservice/anmeldung.html](https://www.wien.gv.at/amtshelfer/dokumente/verwaltung/meldeservice/anmeldung.html)
 
+Ausztriában **3 napon belül személyesen vagy postai úton be kell jelenteni a lakcím létesítését** *(Meldepflicht)*, a lakcím megváltozását, valamint további lakcímek létesítését vagy megszüntetését *(ideiglenes vagy második lakcím)*. A kitöltött formanyomtatvány az ún. Meldezettel, melyet a szállásadó ír alá. Minden egyes családtagnak külön igazolással kell rendelkeznie. A lakcím bejelentkezése, módosítása vagy megszüntetése Bécsben a Meldeservice irodáiban (**[www.wien.gv.at/verwaltung/meldeservice/stellen.html](https://www.wien.gv.at/verwaltung/meldeservice/stellen.html)**) vagy a Kerületi Elöljáróságokon (*Bezirkshauptmannschaft)* történik.
+
 A lakcím bejelentés a következő.
 
 El kell menni egy hivatalba, ahol be kell ezt "jelenteni". Van egy formanyomtatvány, úgy nevezik, hogy Meldezettel, amit előre ki kell tölteni, szállásadóval aláíratni (ha te vagy a főbérlő, akkor a házvezetés (Hausverwaltung) írja alá. A hivatlban meg az a cél, hogy ők ezt lepecsételjék. Ezt a papírt nem árt, h az ember lefotózza, beszkenneli, hogy digitális formában is meglegyen. (Bankban számlanyitáskor, telefonszámla nyitáskor, munkavállaláskor szokták kérni.) A hivatalban 2-3 héttel előre kell időpontot foglalni (legalábbis nálam így volt). Itt tudsz időpontot foglalni: [https://www.wien.gv.at/verwaltung/meldeservice/stellen.html](https://www.wien.gv.at/verwaltung/meldeservice/stellen.html) -> Online Terminreservierung -> és kiválasztod, h melyik kerületben. A formanyomtatványt meg itt tudod letölteni: [https://www.oesterreich.gv.at/dam/jcr:38f0c638-c65a-4d06-98fe-ac4171607a3a/meldezettel.pdf](
@@ -138,6 +149,8 @@ TB-t is igényelni kell. Ha a munkáltatód nem igényli, akkor neked kell, de a
 
 Don't forget the Anmeldgebescheinigung, I got fined for lacking it.
 
+Az osztrák idegenrendészeti törvény rendelkezései értelmében azon európai uniós állampolgárok, akik **három hónapnál tovább szeretnének az országban tartózkodni, kötelesek tartózkodásukat a lakóhelyük szerint illetékes önkormányzatnál (Magistrat) bejelenteni**. A bejelentéstől számított három hónapon belül tartózkodási engedély iránti kérelmet kell benyújtaniuk (Anmeldebescheinigung für EWR-BürgerInnen). A bejelentés elmulasztása közigazgatási szabálysértési bírságot von maga után. A tartózkodási engedély feltétele: lakhatás, betegbiztosítás, megélhetés bizonyítása, valamint kitétel még, hogy nem veszélyeztethetik jelenlétükkel az ország közrendjét és közbiztonságát. A fenti tartózkodási engedély birtokában fényképes igazolványt (Lichtbildausweis für EWR-BürgerInnen) lehet kérvényezni, amely személyazonosításra szolgál, érvényessége pedig 10 év.
+
 Ha a Meldezettel meg van, akkor egy honapod van hogy megcsinaltasd az Anmeldebescheinigung-ot (Igazolas hogy eletvitelszeruen itt elsz)
 
 Ez kb 60-70 euro lesz per fo. (2022)
@@ -157,6 +170,12 @@ Nem árt, ha van egy ún ecardod a biztosítások kívűl, ami kb egy tajkártya
 [https://www.chipkarte.at/cdscontent/?contentid=10007.853312&portal=ecardportal](https://www.chipkarte.at/cdscontent/?contentid=10007.853312&portal=ecardportal&fbclid=IwAR3KlQsWqiqsmALxeuDigBI-oKDW3oV2dH31HdaGM007FixXE6PKcsUdd8E)
 
 itt tudsz majd regisztrálni: -> elektronische Terminvereinbarung, illetve kritériumok: -> Passbildkriterien.
+
+[Fel ↑](#top)
+
+## Hauptwohnsitzmeldung <a id="hauptwohnsitzmeldung"></a>
+
+
 
 [Fel ↑](#top)
 
@@ -198,6 +217,7 @@ EU-s állampolgárként 6 év, amúgy 10 év legalább 5 év állandó ottani la
 
 ## Linkek <a id="linkek"></a>
 
+- [Élni és dolgozni Ausztriában](https://becs.mfa.gov.hu/page/altalanos-tudnivalok-az-ausztriaban-letelepedni-munkat-vallalni-szandekozok-szamara)
 - [Anwaltneudoerfler](https://www.facebook.com/anwaltneudoerfler) | Jogi és egyéb jó tanácsok
 - [Reddit Rot-Weiß-Rot](https://www.reddit.com/r/Austria/wiki/vienna/) | Reddit Austria wiki
 - [Nachrichten über/aus/von Wien](https://www.reddit.com/r/wien/wiki/index/) | Reddit Vienna wiki
