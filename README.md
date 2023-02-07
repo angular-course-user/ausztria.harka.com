@@ -59,6 +59,8 @@ https://www.wienerlinien.at/jahreskarte
 
 ## Lakás <a id="lakas"></a>
 
+arra keszulj hogy mindenhol butorozatlan lesz az alberlet
+
 [Provisionsfreie Wohnungen in Wien von Privat ohne Makler](https://www.facebook.com/groups/2016076738427452/) - Fb csoport
 
 [Suche/Biete provisionsfreie Wohnung in Wien](https://www.facebook.com/groups/sucheprovisionsfreiwien/) - Fb csoport
@@ -215,6 +217,7 @@ EU-s állampolgárként 6 év, amúgy 10 év legalább 5 év állandó ottani la
 
 ## Linkek <a id="linkek"></a>
 
+- [EscapeHungary](https://www.reddit.com/r/escapehungary/) - Reddit
 - [Élni és dolgozni Ausztriában](https://becs.mfa.gov.hu/page/altalanos-tudnivalok-az-ausztriaban-letelepedni-munkat-vallalni-szandekozok-szamara)
 - [Anwaltneudoerfler](https://www.facebook.com/anwaltneudoerfler) - Jogi és egyéb jó tanácsok
 - [Reddit Rot-Weiß-Rot](https://www.reddit.com/r/Austria/wiki/vienna/) - Reddit Austria wiki
