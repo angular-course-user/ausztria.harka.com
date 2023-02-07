@@ -117,7 +117,9 @@ En a Bank99 -nel bankolok, mert nincs semmifele kezelesi koltseg. (Csak a hitelk
 
 Én BankAustria-nál vagyok (ez az otthoni Unicredit megfelelője), havi kb 3 Euró a számlavezetési díjam. Ide kapom a fizut, amúgy PayPalt, meg Revolutot használok mindenre. Másik lehetőség az Erste, nincs vele tapasztalatom, hallottam jót is rosszat is.
 
-Ausztriában csak osztrák bankszámlára utalnak
+Ausztriában csak osztrák bankszámlára utalnak.
+
+Kint nem ugy mukodik mint otthon hogy tok mindegy honnan fizetsz csak fizess credit score rendszer van.
 
 [Fel ↑](#top)
 
