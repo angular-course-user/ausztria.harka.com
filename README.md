@@ -60,7 +60,7 @@ A Jahreskarte-hez is kötelező a kis bélyegkép. Személyesen a wiener lienien
 Van egy KulturPass nevű kártya, amit igényelhetsz a kerületesben lévő Nachbarschaftszentrum-ban. Ha a fizetésed nem éri el az X összeget, akkor lehet igényelni, és ingyen bele lehet vele menni egy csomó múzeumba, színházba, hangversenyre, stb..
 [https://www.hungeraufkunstundkultur.at/wien](https://www.hungeraufkunstundkultur.at/wien)
 
-![metro](C:\OneDrive\documents\harka.com\ausztria.harka.com\metro.jpg)
+![metro](metro.jpg)
 
 [Fel ↑](#top)
 
