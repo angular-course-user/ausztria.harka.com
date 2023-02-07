@@ -50,13 +50,13 @@ https://www.wienerlinien.at/jahreskarte
 
 ## Lakás <a id="lakas"></a>
 
-[https://www.facebook.com/groups/2016076738427452/](https://www.google.com/url?q=https://www.facebook.com/groups/2016076738427452/&sa=D&source=editors&ust=1675449884415821&usg=AOvVaw3wPxrNq_9LtjQpXFMNd8Yt)
+[https://www.facebook.com/groups/2016076738427452/](https://www.facebook.com/groups/2016076738427452/)
 
-[https://www.facebook.com/groups/sucheprovisionsfreiwien/](https://www.google.com/url?q=https://www.facebook.com/groups/sucheprovisionsfreiwien/&sa=D&source=editors&ust=1675449884416446&usg=AOvVaw18VJQnJQphKEjFw4TMymMK)
+[https://www.facebook.com/groups/sucheprovisionsfreiwien/](https://www.facebook.com/groups/sucheprovisionsfreiwien/)
 
-[https://www.facebook.com/groups/1585928341676835/](https://www.google.com/url?q=https://www.facebook.com/groups/1585928341676835/&sa=D&source=editors&ust=1675449884416878&usg=AOvVaw2jbW60rNOw9CZIdRy5buNp)
+[https://www.facebook.com/groups/1585928341676835/](https://www.facebook.com/groups/1585928341676835/)
 
-[https://www.facebook.com/ProvisionsfreiWien](https://www.google.com/url?q=https://www.facebook.com/ProvisionsfreiWien&sa=D&source=editors&ust=1675449884417327&usg=AOvVaw1gRScStbubnNWvZHfL7Lue)
+[https://www.facebook.com/ProvisionsfreiWien](https://www.facebook.com/ProvisionsfreiWien)
 
 Lakaskeresesnel arra figyelj, hogy provision frei-t keress, kulonben a kozvetito tobb ezer eurot is elkerhet.
 
@@ -66,8 +66,7 @@ Facebook Marketplace egy lehetőség, sokan használják, főleg külföldiek. A
 
 Lehetséges lakás:
 
-[https://www.google.com/maps/place/Seestadt/@48.2256511,16.5036036,17z](https://www.google.com/url?q=https://www.google.com/maps/place/Seestadt/@48.2256511,16.5036036,17z/data%3D!3m1!4b1!4m5!3m4!1s0x476d01a12ac24915:0x612efe890ee398c1!8m2!3d48.2256476!4d16.5080883&sa=D&source=editors&ust=1675449884418108&usg=AOvVaw3VEr7tj5hsF_Kna1ao_4_n)
-
+[https://www.google.com/maps/place/Seestadt/@48.2256511,16.5036036,17z](https://www.google.com/maps/place/Seestadt/@48.2256511,16.5036036,17z)  
 márciustól  
 900-950 eur  
 49nm2  
@@ -91,7 +90,7 @@ Amikor van mar lakas es szerzodes, akkor be kell menned a hivatalba es ki kell k
 
 A lakcím bejelentés a következő.
 
-El kell menni egy hivatalba, ahol be kell ezt "jelenteni". Van egy formanyomtatvány, úgy nevezik, hogy Meldezettel, amit előre ki kell tölteni, szállásadóval aláíratni (ha te vagy a főbérlő, akkor a házvezetés (Hausverwaltung) írja alá. A hivatlban meg az a cél, hogy ők ezt lepecsételjék. Ezt a papírt nem árt, h az ember lefotózza, beszkenneli, hogy digitális formában is meglegyen. (Bankban számlanyitáskor, telefonszámla nyitáskor, munkavállaláskor szokták kérni.) A hivatalban 2-3 héttel előre kell időpontot foglalni (legalábbis nálam így volt). Itt tudsz időpontot foglalni: [https://www.wien.gv.at/verwaltung/meldeservice/stellen.html](https://www.google.com/url?q=https://www.wien.gv.at/verwaltung/meldeservice/stellen.html&sa=D&source=editors&ust=1675449884426346&usg=AOvVaw2DciOmTu_KRIK4v65YTa8I) -> Online Terminreservierung -> és kiválasztod, h melyik kerületben. A formanyomtatványt meg itt tudod letölteni: [https://www.oesterreich.gv.at/dam/jcr:38f0c638-c65a-4d06-98fe-ac4171607a3a/meldezettel.pdf](
+El kell menni egy hivatalba, ahol be kell ezt "jelenteni". Van egy formanyomtatvány, úgy nevezik, hogy Meldezettel, amit előre ki kell tölteni, szállásadóval aláíratni (ha te vagy a főbérlő, akkor a házvezetés (Hausverwaltung) írja alá. A hivatlban meg az a cél, hogy ők ezt lepecsételjék. Ezt a papírt nem árt, h az ember lefotózza, beszkenneli, hogy digitális formában is meglegyen. (Bankban számlanyitáskor, telefonszámla nyitáskor, munkavállaláskor szokták kérni.) A hivatalban 2-3 héttel előre kell időpontot foglalni (legalábbis nálam így volt). Itt tudsz időpontot foglalni: [https://www.wien.gv.at/verwaltung/meldeservice/stellen.html](https://www.wien.gv.at/verwaltung/meldeservice/stellen.html) -> Online Terminreservierung -> és kiválasztod, h melyik kerületben. A formanyomtatványt meg itt tudod letölteni: [https://www.oesterreich.gv.at/dam/jcr:38f0c638-c65a-4d06-98fe-ac4171607a3a/meldezettel.pdf](
 
 [Fel ↑](#top)
 
@@ -101,7 +100,7 @@ El kell menni egy hivatalba, ahol be kell ezt "jelenteni". Van egy formanyomtatv
 
 En a Bank99 -nel bankolok, mert nincs semmifele kezelesi koltseg. (Csak a hitelkratlyanal….de arra pedig Revolut-ot hasznalok)
 
-[https://bank99.at/konto/kostenloses-girokonto](https://www.google.com/url?q=https://bank99.at/konto/kostenloses-girokonto&sa=D&source=editors&ust=1675449884421342&usg=AOvVaw2uT14CzgO-IQ4ieBeCOJNR)
+[https://bank99.at/konto/kostenloses-girokonto](https://bank99.at/konto/kostenloses-girokonto)
 
 (Online is lehet nyitni)
 
@@ -117,7 +116,7 @@ Ausztriában csak osztrák bankszámlára utalnak
 
 Mobilra pedig a Magentat hasznalom (Azert jo, mert nem kell evekre alairni, olcso es jo a lefedettseg)
 
-[https://www.magenta.at/handytarife/wertkarte](https://www.google.com/url?q=https://www.magenta.at/handytarife/wertkarte&sa=D&source=editors&ust=1675449884422475&usg=AOvVaw0XhUz_iEw9VflFUHRFEadf)
+[https://www.magenta.at/handytarife/wertkarte](https://www.magenta.at/handytarife/wertkarte)
 
 Van Telekom, van "A1", meg minden más, ami az ő hálózatukat használja. Én a "Yesss!"-nél vagyok. Nekik nincs irodájuk, ahova besétál az ember, minden online van (tudtommal). A pénzfeltöltés kicsit körülményes, amúgy a csomagok ár-érték aránya sztem elég jó. Főleg ha sok mobilnet is kell. Mással nincs tapastalatom. 
 
@@ -143,7 +142,7 @@ Ha a Meldezettel meg van, akkor egy honapod van hogy megcsinaltasd az Anmeldebes
 
 Ez kb 60-70 euro lesz per fo. (2022)
 
-[https://www.wien.gv.at/amtshelfer/dokumente/aufenthalt/ewr/bescheinigungen/arbeitnehmer.html](https://www.google.com/url?q=https://www.wien.gv.at/amtshelfer/dokumente/aufenthalt/ewr/bescheinigungen/arbeitnehmer.html&sa=D&source=editors&ust=1675449884424415&usg=AOvVaw2KniUBIaTfkInPkaKskZdy)
+[https://www.wien.gv.at/amtshelfer/dokumente/aufenthalt/ewr/bescheinigungen/arbeitnehmer.html](https://www.wien.gv.at/amtshelfer/dokumente/aufenthalt/ewr/bescheinigungen/arbeitnehmer.html)
 
 Amikortól a lakcímedet bejelentetted, 4 hónapod van a bevándorlási hivatalban is bejelenteni, h bizony tartósan itt akarsz lakni. Ha ezt nem teszed meg, annak elvileg lesz következménye (anyagi), de hogy mi és mennyi fogalmam sincs. Meldezettelnél adnak pontos infókat, hogy hogyan kell ezt csinálni.
 
@@ -167,9 +166,7 @@ Magyarorszagon is kell majd jelentkezned a rendszebol. Tarsadalombiztositonal ke
 
 Az elso ev vegen mindket orszagban kell adobevallast csinalnod.
 
-[https://finanzonline.bmf.gv.at/fon/](https://www.google.com/url?q=https://finanzonline.bmf.gv.at/fon/&sa=D&source=editors&ust=1675449884425233&usg=AOvVaw3BjJeL3ESVZcPZOKIeS5vX)
-
-https://www.google.com/url?q=https://www.oesterreich.gv.at/dam/jcr:38f0c638-c65a-4d06-98fe-ac4171607a3a/meldezettel.pdf&sa=D&source=editors&ust=1675449884426921&usg=AOvVaw3IbOU5bAa05DuAyUfPFg6j)
+https://finanzonline.bmf.gv.at/fon/
 
 [Fel ↑](#top)
 
