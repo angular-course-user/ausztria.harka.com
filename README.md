@@ -55,6 +55,11 @@ https://www.wienerlinien.at/jahreskarte
 
 (és am mindenre érvényes, ami bécs közig határán belül működik. Vonat és hasonlók is.)
 
+A Jahreskarte-hez is kötelező a kis bélyegkép. Személyesen a wiener lienien-ben elkészítik a kártyát elektronikusan, aztán kipostázzák. Viszont, ha nem telik le a 365 nap és menet közben mondja fel az ember, akkor 20 eurot ki kell fizetni
+
+Van egy KulturPass nevű kártya, amit igényelhetsz a kerületesben lévő Nachbarschaftszentrum-ban. Ha a fizetésed nem éri el az X összeget, akkor lehet igényelni, és ingyen bele lehet vele menni egy csomó múzeumba, színházba, hangversenyre, stb..
+[https://www.hungeraufkunstundkultur.at/wien](https://www.hungeraufkunstundkultur.at/wien)
+
 [Fel ↑](#top)
 
 ## Lakás <a id="lakas"></a>
@@ -162,6 +167,8 @@ Ez kb 60-70 euro lesz per fo. (2022)
 [https://www.wien.gv.at/amtshelfer/dokumente/aufenthalt/ewr/bescheinigungen/arbeitnehmer.html](https://www.wien.gv.at/amtshelfer/dokumente/aufenthalt/ewr/bescheinigungen/arbeitnehmer.html)
 
 Amikortól a lakcímedet bejelentetted, 4 hónapod van a bevándorlási hivatalban is bejelenteni, h bizony tartósan itt akarsz lakni. Ha ezt nem teszed meg, annak elvileg lesz következménye (anyagi), de hogy mi és mennyi fogalmam sincs. Meldezettelnél adnak pontos infókat, hogy hogyan kell ezt csinálni.
+
+Anmeldebescheinigung 30EUR, és csak bevándorlási hivatalban csináltathatod, és nem jó hozzá a személyi igazolvány, útlevél kell, lefénymásolva. És minden esetben 4 hónapod van rá, nem csak egy. 4 hónap után automatikusan csendben gyűlik a havi büntetés, és 1-2 év múlva kiszámláznak neked több ezer eurót
 
 [Fel ↑](#top)
 
