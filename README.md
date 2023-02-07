@@ -177,7 +177,9 @@ itt tudsz majd regisztrálni: -> elektronische Terminvereinbarung, illetve krit�
 
 ## Hauptwohnsitzmeldung <a id="hauptwohnsitzmeldung"></a>
 
+[https://www.oesterreich.gv.at/themen/dokumente_und_recht/an__abmeldung_des_wohnsitzes/Seite.1180200.html](https://www.oesterreich.gv.at/themen/dokumente_und_recht/an__abmeldung_des_wohnsitzes/Seite.1180200.html)
 
+[https://www.wien.gv.at/amtshelfer/dokumente/verwaltung/meldeservice/anmeldung.html](https://www.wien.gv.at/amtshelfer/dokumente/verwaltung/meldeservice/anmeldung.html)
 
 [Fel ↑](#top)
 
