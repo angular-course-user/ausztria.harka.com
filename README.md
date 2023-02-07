@@ -27,7 +27,7 @@ Teendők / tartalomjegyzék:
 
 [Jobs für Softwareentwickler und Webdesigner](https://www.facebook.com/groups/webentwickler.jobs/) | Fb csoport
 
-https://jobs.ams.at/public/emps/
+[https://jobs.ams.at/public/emps/](https://jobs.ams.at/public/emps/)
 
 [https://www.karriere.at](https://www.karriere.at)
 
@@ -37,7 +37,7 @@ https://jobs.ams.at/public/emps/
 
 [Austria, Vienna, Wien, IT, Startup, Österreich, Gründer, Founders](https://www.facebook.com/groups/startup.austria/)
 
-[Job in Austria](https://www.facebook.com/groups/2262445737409292/) | Fb group
+[Job in Austria](https://www.facebook.com/groups/2262445737409292/) | Fb csoport
 
 **[Sportradar](https://sportradar.com) interview! Coding challenge! Felvettek!**
 
