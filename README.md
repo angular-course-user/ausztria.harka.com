@@ -21,11 +21,11 @@ Teendők / tartalomjegyzék:
 
 ## Munka <a id="munka"></a>
 
-[Bécsi Magyarok](https://www.facebook.com/groups/274342695979311/) | Fb csoport
+[Bécsi Magyarok](https://www.facebook.com/groups/274342695979311/) - Fb csoport
 
-[English Speakers in Austria](https://www.facebook.com/groups/austria.english.speakers) | Fb csoport
+[English Speakers in Austria](https://www.facebook.com/groups/austria.english.speakers) - Fb csoport
 
-[Jobs für Softwareentwickler und Webdesigner](https://www.facebook.com/groups/webentwickler.jobs/) | Fb csoport
+[Jobs für Softwareentwickler und Webdesigner](https://www.facebook.com/groups/webentwickler.jobs/) - Fb csoport
 
 [https://jobs.ams.at/public/emps/](https://jobs.ams.at/public/emps/)
 
@@ -37,7 +37,7 @@ Teendők / tartalomjegyzék:
 
 [Austria, Vienna, Wien, IT, Startup, Österreich, Gründer, Founders](https://www.facebook.com/groups/startup.austria/)
 
-[Job in Austria](https://www.facebook.com/groups/2262445737409292/) | Fb csoport
+[Job in Austria](https://www.facebook.com/groups/2262445737409292/) - Fb csoport
 
 **[Sportradar](https://sportradar.com) interview! Coding challenge! Felvettek!**
 
@@ -218,14 +218,14 @@ EU-s állampolgárként 6 év, amúgy 10 év legalább 5 év állandó ottani la
 ## Linkek <a id="linkek"></a>
 
 - [Élni és dolgozni Ausztriában](https://becs.mfa.gov.hu/page/altalanos-tudnivalok-az-ausztriaban-letelepedni-munkat-vallalni-szandekozok-szamara)
-- [Anwaltneudoerfler](https://www.facebook.com/anwaltneudoerfler) | Jogi és egyéb jó tanácsok
-- [Reddit Rot-Weiß-Rot](https://www.reddit.com/r/Austria/wiki/vienna/) | Reddit Austria wiki
-- [Nachrichten über/aus/von Wien](https://www.reddit.com/r/wien/wiki/index/) | Reddit Vienna wiki
+- [Anwaltneudoerfler](https://www.facebook.com/anwaltneudoerfler) - Jogi és egyéb jó tanácsok
+- [Reddit Rot-Weiß-Rot](https://www.reddit.com/r/Austria/wiki/vienna/) - Reddit Austria wiki
+- [Nachrichten über/aus/von Wien](https://www.reddit.com/r/wien/wiki/index/) - Reddit Vienna wiki
 - [The ultimate expat career guide to Austria](https://www.facebook.com/groups/austria.english.speakers/posts/1132079424128700/)
 - [The Vienna Expat survival guide: 13 ultimate tips for internationals moving to, or living in Vienna](https://www.reddit.com/r/wien/comments/64yhfk/the_vienna_expat_survival_guide_13_ultimate_tips/)
-- [Ausztria - finance](https://www.reddit.com/r/escapehungary/comments/10rp8a7/ausztria_finance/) | Reddit post + kommentek
-- [Kiköltözés előtti állapot](https://www.reddit.com/r/escapehungary/comments/10jagfp/kik%C3%B6lt%C3%B6z%C3%A9s_el%C5%91tti_%C3%A1llapot/) | Reddit post + kommentek
-- [Kiköltözés előtti teendő lista](https://www.reddit.com/r/escapehungary/comments/10hyeuj/kik%C3%B6lt%C3%B6z%C3%A9s_el%C5%91tti_teend%C5%91_lista/) | Reddit post + kommentek
-- [Segítség külföldre költözőknek a magyar TB rendezésével](https://www.reddit.com/r/escapehungary/comments/10qt9fl/seg%C3%ADts%C3%A9g_k%C3%BClf%C3%B6ldre_k%C3%B6lt%C3%B6z%C5%91knek_a_magyar_tb/) | Reddit post + kommentek
+- [Ausztria - finance](https://www.reddit.com/r/escapehungary/comments/10rp8a7/ausztria_finance/) - Reddit post + kommentek
+- [Kiköltözés előtti állapot](https://www.reddit.com/r/escapehungary/comments/10jagfp/kik%C3%B6lt%C3%B6z%C3%A9s_el%C5%91tti_%C3%A1llapot/) - Reddit post + kommentek
+- [Kiköltözés előtti teendő lista](https://www.reddit.com/r/escapehungary/comments/10hyeuj/kik%C3%B6lt%C3%B6z%C3%A9s_el%C5%91tti_teend%C5%91_lista/) - Reddit post + kommentek
+- [Segítség külföldre költözőknek a magyar TB rendezésével](https://www.reddit.com/r/escapehungary/comments/10qt9fl/seg%C3%ADts%C3%A9g_k%C3%BClf%C3%B6ldre_k%C3%B6lt%C3%B6z%C5%91knek_a_magyar_tb/) - Reddit post + kommentek
 
 [Fel ↑](#top)
