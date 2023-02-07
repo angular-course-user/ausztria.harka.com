@@ -14,8 +14,8 @@ Teendők / tartalomjegyzék:
 - [ügyintézés](#ugyintezes)
 - [támogatások](#tamogatasok)
 - [állampolgárság](#allampolgarsag)
-- [kérdések](#kerdesek)
 - [tippek](#tippek)
+- [kérdések](#kerdesek)
 - [linkek](#linkek)
 
 ## Munka <a id="munka"></a>
@@ -50,8 +50,6 @@ https://www.wienerlinien.at/jahreskarte
 
 ## Lakás <a id="lakas"></a>
 
-https://www.immobilienscout24.at/
-
 [https://www.facebook.com/groups/2016076738427452/](https://www.google.com/url?q=https://www.facebook.com/groups/2016076738427452/&sa=D&source=editors&ust=1675449884415821&usg=AOvVaw3wPxrNq_9LtjQpXFMNd8Yt)
 
 [https://www.facebook.com/groups/sucheprovisionsfreiwien/](https://www.google.com/url?q=https://www.facebook.com/groups/sucheprovisionsfreiwien/&sa=D&source=editors&ust=1675449884416446&usg=AOvVaw18VJQnJQphKEjFw4TMymMK)
@@ -63,6 +61,10 @@ https://www.immobilienscout24.at/
 Lakaskeresesnel arra figyelj, hogy provision frei-t keress, kulonben a kozvetito tobb ezer eurot is elkerhet.
 
 Alapvetoen az iroda a 22. keruletben van es amugy is itt van a legtobb uj epitesu epulet…talan megeri erre keresgetni.
+
+Facebook Marketplace egy lehetőség, sokan használják, főleg külföldiek. A másik oldal: Willhaben. Ez kb az osztrák Jófogás. Itt érdemes lakásokat böngészni. Meg am használtan bármit is lehet itt találni. Esetleg még ez: https://www.immobilienscout24.at/
+
+Lehetséges lakás:
 
 [https://www.google.com/maps/place/Seestadt/@48.2256511,16.5036036,17z](https://www.google.com/url?q=https://www.google.com/maps/place/Seestadt/@48.2256511,16.5036036,17z/data%3D!3m1!4b1!4m5!3m4!1s0x476d01a12ac24915:0x612efe890ee398c1!8m2!3d48.2256476!4d16.5080883&sa=D&source=editors&ust=1675449884418108&usg=AOvVaw3VEr7tj5hsF_Kna1ao_4_n)
 
@@ -125,6 +127,8 @@ Ausztriában csak osztrák bankszámlára utalnak
 Mobilra pedig a Magentat hasznalom (Azert jo, mert nem kell evekre alairni, olcso es jo a lefedettseg)
 
 [https://www.magenta.at/handytarife/wertkarte](https://www.google.com/url?q=https://www.magenta.at/handytarife/wertkarte&sa=D&source=editors&ust=1675449884422475&usg=AOvVaw0XhUz_iEw9VflFUHRFEadf)
+
+Van Telekom, van "A1", meg minden más, ami az ő hálózatukat használja. Én a "Yesss!"-nél vagyok. Nekik nincs irodájuk, ahova besétál az ember, minden online van (tudtommal). A pénzfeltöltés kicsit körülményes, amúgy a csomagok ár-érték aránya sztem elég jó. Főleg ha sok mobilnet is kell. Mással nincs tapastalatom. 
 
 [Fel ↑](#top)
 
@@ -191,16 +195,16 @@ EU-s állampolgárként 6 év, amúgy 10 év legalább 5 év állandó ottani la
 
 [Fel ↑](#top)
 
+## Tippek <a id="tippek"></a>
+
+- A legtöbb dologról kint elő magyaroktól tájékozódtam. Ismerkedjetek sokat, meg van rengeteg ilyen magyarok Ausztriában/Bécsben csoport. Azokba érdemes belépni
+
+[Fel ↑](#top)
+
 ## Kérdések <a id="kerdesek"></a>
 
 - GIS re (tv-rádió adó) ?
 - Majd érdemes figyelni az egyházi adóra. (Ha beírod, hogy milyen vallású vagy, jon automatikusan.) Pontos osszegeket nem tudok.
-
-[Fel ↑](#top)
-
-## Tippek <a id="tippek"></a>
-
-- A legtöbb dologról kint elő magyaroktól tájékozódtam. Ismerkedjetek sokat, meg van rengeteg ilyen magyarok Ausztriában/Bécsben csoport. Azokba érdemes belépni
 
 [Fel ↑](#top)
 
