@@ -68,24 +68,15 @@ Lehetséges lakás:
 
 [https://www.google.com/maps/place/Seestadt/@48.2256511,16.5036036,17z](https://www.google.com/url?q=https://www.google.com/maps/place/Seestadt/@48.2256511,16.5036036,17z/data%3D!3m1!4b1!4m5!3m4!1s0x476d01a12ac24915:0x612efe890ee398c1!8m2!3d48.2256476!4d16.5080883&sa=D&source=editors&ust=1675449884418108&usg=AOvVaw3VEr7tj5hsF_Kna1ao_4_n)
 
-márciustól
-
-900-950 eur
-
-49nm2
-
-vonatállomás
-
-7m2 tároló
-
-parkolás
-
-főbérlő
-
-20-40 eur parkolás
-
-\+ hűtő, mosogató gép, sütő
-
+márciustól  
+900-950 eur  
+49nm2  
+vonatállomás  
+7m2 tároló  
+parkolás  
+tulaj rendes, Dubajban lakó Szlovák
+20-40 eur parkolás  
+\+ hűtő, mosogató gép, sütő  
 \- mosógép
 
 [Fel ↑](#top)
