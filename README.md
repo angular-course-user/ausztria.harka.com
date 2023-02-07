@@ -101,7 +101,9 @@ Ausztriában **3 napon belül személyesen vagy postai úton be kell jelenteni a
 
 A lakcím bejelentés a következő.
 
-El kell menni egy hivatalba, ahol be kell ezt "jelenteni". Van egy formanyomtatvány, úgy nevezik, hogy Meldezettel, amit előre ki kell tölteni, szállásadóval aláíratni (ha te vagy a főbérlő, akkor a házvezetés (Hausverwaltung) írja alá. A hivatlban meg az a cél, hogy ők ezt lepecsételjék. Ezt a papírt nem árt, h az ember lefotózza, beszkenneli, hogy digitális formában is meglegyen. (Bankban számlanyitáskor, telefonszámla nyitáskor, munkavállaláskor szokták kérni.) A hivatalban 2-3 héttel előre kell időpontot foglalni (legalábbis nálam így volt). Itt tudsz időpontot foglalni: [https://www.wien.gv.at/verwaltung/meldeservice/stellen.html](https://www.wien.gv.at/verwaltung/meldeservice/stellen.html) -> Online Terminreservierung -> és kiválasztod, h melyik kerületben. A formanyomtatványt meg itt tudod letölteni: [https://www.oesterreich.gv.at/dam/jcr:38f0c638-c65a-4d06-98fe-ac4171607a3a/meldezettel.pdf](
+El kell menni egy hivatalba, ahol be kell ezt "jelenteni". Van egy formanyomtatvány, úgy nevezik, hogy Meldezettel, amit előre ki kell tölteni, szállásadóval aláíratni (ha te vagy a főbérlő, akkor a házvezetés (Hausverwaltung) írja alá. A hivatlban meg az a cél, hogy ők ezt lepecsételjék. Ezt a papírt nem árt, h az ember lefotózza, beszkenneli, hogy digitális formában is meglegyen. (Bankban számlanyitáskor, telefonszámla nyitáskor, munkavállaláskor szokták kérni.) A hivatalban 2-3 héttel előre kell időpontot foglalni (legalábbis nálam így volt). Itt tudsz időpontot foglalni: [https://www.wien.gv.at/verwaltung/meldeservice/stellen.html](https://www.wien.gv.at/verwaltung/meldeservice/stellen.html) -> Online Terminreservierung -> és kiválasztod, h melyik kerületben. A formanyomtatványt meg itt tudod letölteni: [https://www.oesterreich.gv.at/dam/jcr:38f0c638-c65a-4d06-98fe-ac4171607a3a/meldezettel.pdf](https://www.oesterreich.gv.at/dam/jcr:38f0c638-c65a-4d06-98fe-ac4171607a3a/meldezettel.pdf)
+
+ [Lakcím létesítése (Meldepflicht)](https://www.ausztriaimunkak.eu/ausztria-info/lakcim-letesitese-meldepflicht)
 
 [Fel ↑](#top)
 
@@ -224,8 +226,9 @@ EU-s állampolgárként 6 év, amúgy 10 év legalább 5 év állandó ottani la
 
 - [EscapeHungary](https://www.reddit.com/r/escapehungary/) - Reddit
 - [English Speakers in Austria](https://www.englishspeakers.at)
+- [AllAboutVienna](https://allaboutvienna.com/category/moving-to-vienna/)
 - [WorkInAustria](https://www.workinaustria.com/en/)
-- [Élni és dolgozni Ausztriában](https://becs.mfa.gov.hu/page/altalanos-tudnivalok-az-ausztriaban-letelepedni-munkat-vallalni-szandekozok-szamara)
+- [Élni és dolgozni Ausztriában](https://becs.mfa.gov.hu/page/altalanos-tudnivalok-az-ausztriaban-letelepedni-munkat-vallalni-szandekozok-szamara) - Bécsi Nagykövetség
 - [Anwaltneudoerfler](https://www.facebook.com/anwaltneudoerfler) - Jogi és egyéb jó tanácsok
 - [Reddit Rot-Weiß-Rot](https://www.reddit.com/r/Austria/wiki/vienna/) - Reddit Austria wiki
 - [Nachrichten über/aus/von Wien](https://www.reddit.com/r/wien/wiki/index/) - Reddit Vienna wiki
@@ -235,5 +238,8 @@ EU-s állampolgárként 6 év, amúgy 10 év legalább 5 év állandó ottani la
 - [Kiköltözés előtti állapot](https://www.reddit.com/r/escapehungary/comments/10jagfp/kik%C3%B6lt%C3%B6z%C3%A9s_el%C5%91tti_%C3%A1llapot/) - Reddit post + kommentek
 - [Kiköltözés előtti teendő lista](https://www.reddit.com/r/escapehungary/comments/10hyeuj/kik%C3%B6lt%C3%B6z%C3%A9s_el%C5%91tti_teend%C5%91_lista/) - Reddit post + kommentek
 - [Segítség külföldre költözőknek a magyar TB rendezésével](https://www.reddit.com/r/escapehungary/comments/10qt9fl/seg%C3%ADts%C3%A9g_k%C3%BClf%C3%B6ldre_k%C3%B6lt%C3%B6z%C5%91knek_a_magyar_tb/) - Reddit post + kommentek
+- [Általános tudnivalók az Ausztriában letelepedni, munkát vállalni szándékozók számára](https://www.facebook.com/legacy/notes/223544387833390/)
+- [Külföldi letelepedés bejelentése](https://becs.mfa.gov.hu/page/kuelfoeldi-letelepedes-bejelentese) - Bécsi Nagykövetség
+- 
 
 [Fel ↑](#top)
