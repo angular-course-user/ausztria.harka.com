@@ -59,13 +59,11 @@ https://www.wienerlinien.at/jahreskarte
 
 ## Lakás <a id="lakas"></a>
 
-[https://www.facebook.com/groups/2016076738427452/](https://www.facebook.com/groups/2016076738427452/)
+[Provisionsfreie Wohnungen in Wien von Privat ohne Makler](https://www.facebook.com/groups/2016076738427452/) - Fb csoport
 
-[https://www.facebook.com/groups/sucheprovisionsfreiwien/](https://www.facebook.com/groups/sucheprovisionsfreiwien/)
+[Suche/Biete provisionsfreie Wohnung in Wien](https://www.facebook.com/groups/sucheprovisionsfreiwien/) - Fb csoport
 
-[https://www.facebook.com/groups/1585928341676835/](https://www.facebook.com/groups/1585928341676835/)
-
-[https://www.facebook.com/ProvisionsfreiWien](https://www.facebook.com/ProvisionsfreiWien)
+[Provisionsfreie Wohnungen in Wien](https://www.facebook.com/ProvisionsfreiWien) - Fb oldal
 
 Lakaskeresesnel arra figyelj, hogy provision frei-t keress, kulonben a kozvetito tobb ezer eurot is elkerhet.
 
