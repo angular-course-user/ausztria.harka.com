@@ -73,7 +73,7 @@ Facebook Marketplace egy lehetőség, sokan használják, főleg külföldiek. A
 
 Lehetséges lakás:
 
-[https://www.google.com/maps/place/Seestadt/@48.2256511,16.5036036,17z](https://www.google.com/maps/place/Seestadt/@48.2256511,16.5036036,17z)  
+[https://www.google.com/maps/@47.4512643,19.1516624,14z?q=kohlenrutschen+6%2F24](https://www.google.com/maps/@47.4512643,19.1516624,14z?q=kohlenrutschen+6%2F24)  
 márciustól  
 900-950 eur  
 49nm2  
