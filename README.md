@@ -216,12 +216,15 @@ EU-s állampolgárként 6 év, amúgy 10 év legalább 5 év állandó ottani la
 
 - GIS re (tv-rádió adó) ?
 - Majd érdemes figyelni az egyházi adóra. (Ha beírod, hogy milyen vallású vagy, jon automatikusan.) Pontos osszegeket nem tudok.
+- [ID Austria/Handy-Signature/digital driving licence](https://www.englishspeakers.at/post/id-austria-digital-driving-licence?fbclid=IwAR0yh-SnqYQjEn5KjyJabnXsnPqm1k8z3Nfz7rDbZ3CZZUeqXi5m3QsaM_w) ?
 
 [Fel ↑](#top)
 
 ## Linkek <a id="linkek"></a>
 
 - [EscapeHungary](https://www.reddit.com/r/escapehungary/) - Reddit
+- [English Speakers in Austria](https://www.englishspeakers.at)
+- [WorkInAustria](https://www.workinaustria.com/en/)
 - [Élni és dolgozni Ausztriában](https://becs.mfa.gov.hu/page/altalanos-tudnivalok-az-ausztriaban-letelepedni-munkat-vallalni-szandekozok-szamara)
 - [Anwaltneudoerfler](https://www.facebook.com/anwaltneudoerfler) - Jogi és egyéb jó tanácsok
 - [Reddit Rot-Weiß-Rot](https://www.reddit.com/r/Austria/wiki/vienna/) - Reddit Austria wiki
