@@ -25,7 +25,7 @@ Tartalomjegyzék:
 
 ## Felelősségkizárás <a id="felelossegkizaras"></a>
 
-Különböző barátoktól, Facebook, Reddit és egyéb post-okból szedtem össze az alábbi infókat és a legjobb tudásom szerint rendszereztem őket. Előfordulhat, hogy valami hibás vagy hiányos, de gondoltam ha már összegyűjtöttem őket, akkor nem tellik semmiből feltölteni, hátha másnak is segítség. Folyamatosan pucolgatom, de nem vállalok semmilyen felelősséget az esetleges helytelenségekért. Ugyanakkor helyesbítést szívesen fogadok [Facebook/Messenger](https://www.facebook.com/messages/t/1420286526)-en vagy emailen: **ausztria<sub><sup>kukac</sup></sub>harka<sub><sup>pont</sup></sub>com**
+Különböző barátoktól, Facebook, Reddit és egyéb post-okból szedtem össze az alábbi infókat és a legjobb tudásom szerint rendszereztem őket. Előfordulhat, hogy valami hibás vagy hiányos, de gondoltam ha már összegyűjtöttem őket, akkor nem tellik semmiből feltölteni, hátha másnak is segítség. Folyamatosan pucolgatom, de nem vállalok semmilyen felelősséget az esetleges helytelenségekért. Ugyanakkor helyesbítést szívesen fogadok [Facebook/Messenger](https://www.facebook.com/messages/t/1420286526)-en vagy emailen: **ausztriaFolytasd<sub><sup>kukac</sup></sub>harka<sub><sup>pont</sup></sub>com**
 
 [Fel ↑](#top)
 
@@ -316,6 +316,7 @@ Nekünk egy gyermekünk sem kint született – ebből a szempontból sajnos. M�
 - [English Speakers in Austria](https://www.englishspeakers.at)
 - [AllAboutVienna](https://allaboutvienna.com/category/moving-to-vienna/)
 - [WorkInAustria](https://www.workinaustria.com/en/)
+- [https://www.wien.gv.at/english/](https://www.wien.gv.at/english/)
 - [Élni és dolgozni Ausztriában](https://becs.mfa.gov.hu/page/altalanos-tudnivalok-az-ausztriaban-letelepedni-munkat-vallalni-szandekozok-szamara) - Bécsi Nagykövetség
 - [Anwaltneudoerfler](https://www.facebook.com/anwaltneudoerfler) - Jogi és egyéb jó tanácsok
 - [Reddit Rot-Weiß-Rot](https://www.reddit.com/r/Austria/wiki/vienna/) - Reddit Austria wiki
