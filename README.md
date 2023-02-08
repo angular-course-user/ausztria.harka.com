@@ -88,8 +88,6 @@ arra keszulj hogy mindenhol butorozatlan lesz az alberlet
 
 Lakaskeresesnel arra figyelj, hogy provision frei-t keress, kulonben a kozvetito tobb ezer eurot is elkerhet.
 
-Alapvetoen az iroda a 22. keruletben van es amugy is itt van a legtobb uj epitesu epulet…talan megeri erre keresgetni.
-
 Facebook Marketplace egy lehetőség, sokan használják, főleg külföldiek. A másik oldal: Willhaben. Ez kb az osztrák Jófogás. Itt érdemes lakásokat böngészni. Meg am használtan bármit is lehet itt találni. Esetleg még ez: https://www.immobilienscout24.at/
 
 [Fel ↑](#top)
