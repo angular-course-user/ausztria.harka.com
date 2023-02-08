@@ -92,20 +92,6 @@ Alapvetoen az iroda a 22. keruletben van es amugy is itt van a legtobb uj epites
 
 Facebook Marketplace egy lehetőség, sokan használják, főleg külföldiek. A másik oldal: Willhaben. Ez kb az osztrák Jófogás. Itt érdemes lakásokat böngészni. Meg am használtan bármit is lehet itt találni. Esetleg még ez: https://www.immobilienscout24.at/
 
-Lehetséges lakás:
-
-[https://www.google.com/maps/@47.4512643,19.1516624,14z?q=kohlenrutschen+6%2F24](https://www.google.com/maps/@47.4512643,19.1516624,14z?q=kohlenrutschen+6%2F24)  
-márciustól  
-900-950 eur  
-49nm2  
-vonatállomás  
-7m2 tároló  
-parkolás  
-tulaj rendes, Dubajban lakó Szlovák
-20-40 eur parkolás  
-\+ hűtő, mosogató gép, sütő  
-\- mosógép
-
 [Fel ↑](#top)
 
 ## Meldezettel <a id="meldezettel"></a>
@@ -331,4 +317,4 @@ Nekünk egy gyermekünk sem kint született – ebből a szempontból sajnos. M�
 
 [Fel ↑](#top)
 
-Összegyűjtötte: [Harka Dániel](https://daniel.harka.com)
+**Összegyűjtötte: [Harka Dániel](https://daniel.harka.com)**
