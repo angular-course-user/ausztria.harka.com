@@ -1,23 +1,33 @@
 # Ausztria <a id="top"></a>
 
-Teendők / tartalomjegyzék:
+Tartalomjegyzék:
 
-- ~~[munka](#munka)~~
-- ~~[tömegközlekedés](#tomegkozlekedes)~~
+- [felelősségkizárás](#felelossegkizaras)
+- [tömegközlekedés](#tomegkozlekedes)
 - [lakás](#lakas)
 - [meldezettel](#meldezettel)
 - [bank](#bank)
 - [mobil](#mobil)
-- [biztosítás](#biztositas)
+- [társadalombiztosítás](#tarsadalombiztositas)
 - [anmeldebescheinigung](#anmeldebescheinigung)
 - [ecard](#ecard)
 - [hauptwohnsitzmeldung](#hauptwohnsitzmeldung)
 - [ügyintézés](#ugyintezes)
 - [támogatások](#tamogatasok)
 - [állampolgárság](#allampolgarsag)
+- [bevásárlás](#bevasarlas)
+- [szabadidő](#szabadido)
+- [párkapcsolat](#parkapcsolat)
+- [gyerek](#gyerek)
 - [tippek](#tippek)
 - [kérdések](#kerdesek)
 - [linkek](#linkek)
+
+## Felelősségkizárás <a id="felelossegkizaras"></a>
+
+Különböző barátoktól, Facebook, Reddit és egyéb post-okból szedtem össze az alábbi infókat és a legjobb tudásom szerint rendszereztem őket. Előfordulhat, hogy valami hibás vagy hiányos, de gondoltam ha már összegyűjtöttem őket, akkor nem tellik semmiből feltölteni, hátha másnak is segítség. Folyamatosan pucolgatom, de nem vállalok semmilyen felelősséget az esetleges helytelenségekért. Ugyanakkor helyesbítést szívesen fogadok [Facebook/Messenger](https://www.facebook.com/messages/t/1420286526)-en vagy az **ausztria <sub><sup>kukac</sup></sub> harka <sub><sup>pont</sup></sub> com** email címen.
+
+[Fel ↑](#top)
 
 ## Munka <a id="munka"></a>
 
@@ -39,7 +49,9 @@ Teendők / tartalomjegyzék:
 
 [Job in Austria](https://www.facebook.com/groups/2262445737409292/) - Fb csoport
 
-**[Sportradar](https://sportradar.com) interview! Coding challenge! Felvettek!**
+[Hokify](https://hokify.at) - Job portal
+
+
 
 [Fel ↑](#top)
 
@@ -146,13 +158,23 @@ Van Telekom, van "A1", meg minden más, ami az ő hálózatukat használja. Én 
 
 [Fel ↑](#top)
 
-## Biztosítás <a id="biztositas"></a>
+## Társadalombiztosítás <a id="tarsadalombiztositas"></a>
 
-Biztosításra Sárát "manuálisan" be kell jelenteni, hogy biztosítva legyen! Akkor ő is biztosítva lesz, ha van munkám.
+Biztosításra párod "manuálisan" be kell jelenteni, hogy biztosítva legyen! Akkor ő is biztosítva lesz, ha van munkád.
 
 A biztosítást pedig (> Feltételezem) a cég fizeti. Rendelnek majd hozzád egy társadalombiztosítási számot (SV Nummer). Ha ez megvan, akkor el tudnak látni a rendelőben/kórházban.
 
 TB-t is igényelni kell. Ha a munkáltatód nem igényli, akkor neked kell, de ahhoz ki kell kérned egy számot. Az otthoni Tb-t le kell mondani...
+
+Amúgy az orvosi alapellátásnál a ’Gebietskrankenkasse’ az állami TB által támogatott verzió, munkavállalóknak(és hozzátartozóiknak) térítésmentes ellátás.
+
+Ha felírnak egy gyógyszert, mindegy mit, u.annyiba kerül. Régebben 15 Euró volt.
+
+Bár Ausztriában az orvosi ellátás kicsit olyan, mint Magyarországon a fogorvos. Aki megengedheti magának, magán úton megy, és a rendelő akár egy átlagos társasházban is lehet. Minden szakorvos maga dönti el, hogy milyen Egészségbiztosítónak dolgozik. Jobb munkahelyek saját Egészségbiztosítást fizetnek a dolgozóiknak, magán egészségbiztosítókkal szerződve.
+
+Orvost, leginkább szakorvost is ajánlás után, vagy a neten böngészve találhattok. Minden orvos feltünteti a honlapján, hogy milyen Biztosítókkal szerződött, pl. Ellátja-e a Gebietskrankenkasse (állam által finanszírozott) betegeit.
+
+Ha hirtelen nagy baj van, be lehet szaladni az [AKH](https://www.akhwien.at/)-ba, ahol pl. Megvizsgálnak, megröntgeneznek. Bár jobb körülmények között, de mi kisgyerekkel ugyanúgy órákig vártunk itt egy vizsgálatra, mint a János Kórházban tettük volna.
 
 [Fel ↑](#top)
 
@@ -211,11 +233,66 @@ Az elso ev vegen mindket orszagban kell adobevallast csinalnod.
 A legtöbb támogatást az AMS vagy a WAFF szolgáltatja.
 Ahogy csak tudjátok, használjatok ki mindent. Meg a "nem lehet"-nek ne higgyetek, kicsit push-olyi kell a dolgokat. Bár angolul nehéz, mert akkor köcsögök és nem is értik annyira. Vagy nem akarják.
 
+Ha kialakul, hogy tényleg hosszútávra gondolkoztok, és a párod nem talál bejelentett munkát, én ajánlom az AMS-t. Akinek nem volt kint munkaviszonya, tudtommal nem jogosult segélyre, de ingyenes nyelvtanfolyamra, vagy más tanfolyamra baíratkozhat. Először jelentkezni kell, majd behívnak egy személyes elbeszélgetésre, s kialakul egy terv. Általában javasolnak egy nyelvtanfolyamot vagy hasonlót. Én végigjártam 10-12 hetet és utána letettem a német középfokút.
+
 [Fel ↑](#top)
 
 ## Állampolgárság <a id="allampolgarsag"></a>
 
 EU-s állampolgárként 6 év, amúgy 10 év legalább 5 év állandó ottani lakhellyel.
+
+[Fel ↑](#top)
+
+## Bevásárlás <a id="bevasarlas"></a>
+
+- [Gewerbepark Stadlau](https://www.shops-wien.at/shopping-center-wien/22-gewerbepark-stadlau-gewerbeparkstrasse-2-e)
+- [Donauzentrum](https://www.facebook.com/Donauzentrum/) – Bécs legnagyobb plázája
+
+[Fel ↑](#top)
+
+## Szabadidő <a id="szabadido"></a>
+
+Szabadidős programok a 22. kerületben:
+
+- [Blumengarten Hirschstetten](https://www.wien.gv.at/umwelt/parks/blumengaerten-hirschstetten/) – ezerarcú park, közepén tóval, minden évszakban szuper
+
+- [Motorikpark](http://www.motorikpark-wien.at/) 22 (van egy a belvárosban is)
+
+- [Badeteich Hirschstetten](https://www.meinbezirk.at/donaustadt/c-regionauten-community/badeteich-hirschstetten_a5284051) – sétálni, úszni, strandolni - ingyenes
+
+- [Donaustadter Bad](https://www.wien.gv.at/freizeit/baeder/uebersicht/kombibaeder/donaustadt.html) – úszni bent és nyáron kint
+
+- [Eishalle](https://www.wien.gv.at/freizeit/sportamt/sportstaetten/eisanlagen/schulz-halle.html) - korizni
+
+- [Alte Donau](https://www.wien.gv.at/english/environment/waterbodies/old-danube/) – a védett Dunaág szuper szabadtéri programokhoz
+
+Meglepően sok helyen lehet szabad vizekben fürdeni nyáron.
+
+Ide már kocsi kell, persze azt is lehet bérelni, mint Budapesten pl. a MOL limót:
+
+- [Hohe Wand](https://www.hetedhetorszag.hu/ausztria/hohe-wand)
+
+- [Naturpark Sparbach](https://www.naturpark-sparbach.at/) – tavasszal kis vaddisznók szelik át a túraútvonalakat :-)
+
+[Fel ↑](#top)
+
+## Párkapcsolat <a id="parkapcsolat"></a>
+
+Kezdeném azzal, amit mi sajnálom, hogy mi elmulasztottuk: megbeszélni, hogy meddig maradunk… Szerintem ezt jó tisztázni előre egy párnak. Valakinek úgyis honvágya lesz, valaki meg kicsit jobban érzi magát. Fent és lent. De egy idő után úgysem a pénz lesz a legfontosabb kérdés, hanem a kapcsolatok. Hogy milyen erősen maradnak meg a magyar szálak, vagy hogy átveszik-e helyüket az újak...
+
+Meddig éri meg az előrébb jutásért a régi kapcsolatokat háttérbesorolni, vagy sikerül-e új, minőségi barátságokat kötni helyben. Szerintem mi egy kicsit túlhúztuk, amiből feszültség lett.
+
+Szerencsésebb előre megbeszélni egy A, B, esetleg C tervet. Ha minden jól megy x ideig maradunk, utána újratervezés. Ha párod nem talál munkát 3-6-x hónap alatt, akkor… Ha én másik munkahelyet szeretnék… Ha gyarapodik a családunk…
+
+[Fel ↑](#top)
+
+## Gyerek <a id="gyerek"></a>
+
+Minden Ausztriában születő gyermeknek(vagyis a szüleinek) jár egy összegben, vagy havi lebontásban ugyanaz az összeg. Korábban ez 10.000 Euró volt. Függetlenül attól, hogy az anya be volt-e jelentve. Nem úgy, mint Magyarországon.
+
+Viszont a szülő előre el kell döntse, hogy meddig marad otthon a gyermekével. Aki pl. 3 évig szeretne, az 36 hónapra elosztva kapja ezt az összeget az államtól. Aki egy étán visszamegy dolgozni, az 12 hónapra elosztva kapja.
+
+Nekünk egy gyermekünk sem kint született – ebből a szempontból sajnos. Más szempontból viszont jobb volt így számomra.
 
 [Fel ↑](#top)
 
@@ -245,12 +322,14 @@ EU-s állampolgárként 6 év, amúgy 10 év legalább 5 év állandó ottani la
 - [Nachrichten über/aus/von Wien](https://www.reddit.com/r/wien/wiki/index/) - Reddit Vienna wiki
 - [The ultimate expat career guide to Austria](https://www.facebook.com/groups/austria.english.speakers/posts/1132079424128700/)
 - [The Vienna Expat survival guide: 13 ultimate tips for internationals moving to, or living in Vienna](https://www.reddit.com/r/wien/comments/64yhfk/the_vienna_expat_survival_guide_13_ultimate_tips/)
+- [Duma Túra Ausztria](https://www.youtube.com/@dumaturaausztria/) - Youtube csatorna
 - [Ausztria - finance](https://www.reddit.com/r/escapehungary/comments/10rp8a7/ausztria_finance/) - Reddit post + kommentek
 - [Kiköltözés előtti állapot](https://www.reddit.com/r/escapehungary/comments/10jagfp/kik%C3%B6lt%C3%B6z%C3%A9s_el%C5%91tti_%C3%A1llapot/) - Reddit post + kommentek
 - [Kiköltözés előtti teendő lista](https://www.reddit.com/r/escapehungary/comments/10hyeuj/kik%C3%B6lt%C3%B6z%C3%A9s_el%C5%91tti_teend%C5%91_lista/) - Reddit post + kommentek
 - [Segítség külföldre költözőknek a magyar TB rendezésével](https://www.reddit.com/r/escapehungary/comments/10qt9fl/seg%C3%ADts%C3%A9g_k%C3%BClf%C3%B6ldre_k%C3%B6lt%C3%B6z%C5%91knek_a_magyar_tb/) - Reddit post + kommentek
 - [Általános tudnivalók az Ausztriában letelepedni, munkát vállalni szándékozók számára](https://www.facebook.com/legacy/notes/223544387833390/)
 - [Külföldi letelepedés bejelentése](https://becs.mfa.gov.hu/page/kuelfoeldi-letelepedes-bejelentese) - Bécsi Nagykövetség
-- 
 
 [Fel ↑](#top)
+
+Összegyűjtötte: [Harka Dániel](https://daniel.harka.com)
