@@ -296,7 +296,6 @@ Nekünk egy gyermekünk sem kint született – ebből a szempontból sajnos. M�
 
 ## Linkek <a id="linkek"></a>
 
-- [EscapeHungary](https://www.reddit.com/r/escapehungary/) - Reddit
 - [English Speakers in Austria](https://www.englishspeakers.at)
 - [AllAboutVienna](https://allaboutvienna.com/category/moving-to-vienna/)
 - [WorkInAustria](https://www.workinaustria.com/en/)
@@ -308,6 +307,7 @@ Nekünk egy gyermekünk sem kint született – ebből a szempontból sajnos. M�
 - [The ultimate expat career guide to Austria](https://www.facebook.com/groups/austria.english.speakers/posts/1132079424128700/)
 - [The Vienna Expat survival guide: 13 ultimate tips for internationals moving to, or living in Vienna](https://www.reddit.com/r/wien/comments/64yhfk/the_vienna_expat_survival_guide_13_ultimate_tips/)
 - [Duma Túra Ausztria](https://www.youtube.com/@dumaturaausztria/) - Youtube csatorna
+- [EscapeHungary](https://www.reddit.com/r/escapehungary/) - Reddit
 - [Ausztria - finance](https://www.reddit.com/r/escapehungary/comments/10rp8a7/ausztria_finance/) - Reddit post + kommentek
 - [Kiköltözés előtti állapot](https://www.reddit.com/r/escapehungary/comments/10jagfp/kik%C3%B6lt%C3%B6z%C3%A9s_el%C5%91tti_%C3%A1llapot/) - Reddit post + kommentek
 - [Kiköltözés előtti teendő lista](https://www.reddit.com/r/escapehungary/comments/10hyeuj/kik%C3%B6lt%C3%B6z%C3%A9s_el%C5%91tti_teend%C5%91_lista/) - Reddit post + kommentek
