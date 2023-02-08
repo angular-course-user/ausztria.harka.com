@@ -57,6 +57,8 @@ Különböző barátoktól, Facebook, Reddit és egyéb post-okból szedtem öss
 
 ## Tömegközlekedés <a id="tomegkozlekedes"></a>
 
+**[TÉRKÉP](map.jpg)**
+
 Na ez Bécs egyik legnagyobb előnye. Nincs szükség autóra Bécsben, hacsak nem valamit szállítani akarsz. A tömegközi, vagy bicikli jól működnek. Ha havi bérlet kell azt hiszem 50 Euró, ha éves bérletet veszel, az havi kiosztásban kb 33 Euróra jön ki. (lehet havonta is fizetni, és le is lehet mondani.) Ha az ember hallgató, v fiatal, akkor még jobb lehetőségek is vannak.
 
 Ha vonatozni akartok, Ausztria kicsit drágább, mint Mo, de van egy ún. Vorteilskarte akció, amivel 50% kedvezménnyel utazhat az ember, ha van ilyen kártyája. (19 Euró 1 évben.) Mo-ra utazni a Mávval érdemes, mert olcsóbb 
