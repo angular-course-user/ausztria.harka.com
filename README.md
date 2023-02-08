@@ -74,7 +74,7 @@ Van egy KulturPass nevű kártya, amit igényelhetsz a kerületesben lévő Nach
 
  [Fel ↑](#top)
 
-[![Metro](metro.jpg)](metro.jpg)
+<a href="metro.jpg" target="_blank"><img src="/metro.jpg" alt="Metro" loading="lazy"></a>
 
 [Fel ↑](#top)
 
