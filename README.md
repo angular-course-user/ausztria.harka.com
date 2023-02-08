@@ -25,8 +25,7 @@ Tartalomjegyzék:
 
 ## Felelősségkizárás <a id="felelossegkizaras"></a>
 
-Különböző barátoktól, Facebook, Reddit és egyéb post-okból szedtem össze az alábbi infókat és a legjobb tudásom szerint rendszereztem őket. Előfordulhat, hogy valami hibás vagy hiányos, de gondoltam ha már összegyűjtöttem őket, akkor nem tellik semmiből feltölteni, hátha másnak is segítség. Folyamatosan pucolgatom, de nem vállalok semmilyen felelősséget az esetleges helytelenségekért. Ugyanakkor helyesbítést szívesen fogadok [Facebook/Messenger](https://www.facebook.com/messages/t/1420286526)-en vagy az alábbi email címen:  
-**ausztria<sub><sup>kukac</sup></sub>harka<sub><sup>pont</sup></sub>com**
+Különböző barátoktól, Facebook, Reddit és egyéb post-okból szedtem össze az alábbi infókat és a legjobb tudásom szerint rendszereztem őket. Előfordulhat, hogy valami hibás vagy hiányos, de gondoltam ha már összegyűjtöttem őket, akkor nem tellik semmiből feltölteni, hátha másnak is segítség. Folyamatosan pucolgatom, de nem vállalok semmilyen felelősséget az esetleges helytelenségekért. Ugyanakkor helyesbítést szívesen fogadok [Facebook/Messenger](https://www.facebook.com/messages/t/1420286526)-en vagy emailen: **ausztria<sub><sup>kukac</sup></sub>harka<sub><sup>pont</sup></sub>com**
 
 [Fel ↑](#top)
 
