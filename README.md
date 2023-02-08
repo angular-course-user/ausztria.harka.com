@@ -88,7 +88,12 @@ arra keszulj hogy mindenhol butorozatlan lesz az alberlet
 
 Lakaskeresesnel arra figyelj, hogy provision frei-t keress, kulonben a kozvetito tobb ezer eurot is elkerhet.
 
-Facebook Marketplace egy lehetőség, sokan használják, főleg külföldiek. A másik oldal: Willhaben. Ez kb az osztrák Jófogás. Itt érdemes lakásokat böngészni. Meg am használtan bármit is lehet itt találni. Esetleg még ez: https://www.immobilienscout24.at/
+Facebook Marketplace egy lehetőség, sokan használják, főleg külföldiek. A másik oldal: Willhaben. Ez kb az osztrák Jófogás. Itt érdemes lakásokat böngészni. Meg am használtan bármit is lehet itt találni. Esetleg még ez:
+
+[https://www.immobilienscout24.at/](https://www.immobilienscout24.at/)
+
+Ingatlan árak (bérlés/vásárlás):  
+[https://www.immopreise.at/Wien/Wohnung/Miete](https://www.immopreise.at/Wien/Wohnung/Miete)
 
 [Fel ↑](#top)
 
