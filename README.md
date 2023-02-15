@@ -37,6 +37,12 @@ Különböző barátoktól, Facebook, Reddit és egyéb post-okból szedtem öss
 
 [Jobs für Softwareentwickler und Webdesigner](https://www.facebook.com/groups/webentwickler.jobs/) - Fb csoport
 
+[Employers offering English speaking jobs in Austria](https://www.facebook.com/groups/austria.english.speakers/posts/1003614510308526/)
+
+[https://englishjobsearch.at](https://englishjobsearch.at)
+
+[https://jobs.workinaustria.com/en/](https://jobs.workinaustria.com/en/)
+
 [https://jobs.ams.at/public/emps/](https://jobs.ams.at/public/emps/)
 
 [https://www.karriere.at](https://www.karriere.at)
@@ -294,6 +300,10 @@ Nekünk egy gyermekünk sem kint született – ebből a szempontból sajnos. M�
 - GIS re (tv-rádió adó) ?
 - Majd érdemes figyelni az egyházi adóra. (Ha beírod, hogy milyen vallású vagy, jon automatikusan.) Pontos osszegeket nem tudok.
 - [ID Austria/Handy-Signature/digital driving licence](https://www.englishspeakers.at/post/id-austria-digital-driving-licence?fbclid=IwAR0yh-SnqYQjEn5KjyJabnXsnPqm1k8z3Nfz7rDbZ3CZZUeqXi5m3QsaM_w) ?
+- [Handy-Signatur und kartenbasierte Bürgerkarte – Allgemeines](https://www.oesterreich.gv.at/themen/dokumente_und_recht/handy_signatur_und_kartenbasierte_buergerkarte/Seite.2210030.html)
+- Bürgerkarte?
+- ID Austria?
+- 
 
 [Fel ↑](#top)
 
@@ -316,6 +326,7 @@ Nekünk egy gyermekünk sem kint született – ebből a szempontból sajnos. M�
 - [Kiköltözés előtti teendő lista](https://www.reddit.com/r/escapehungary/comments/10hyeuj/kik%C3%B6lt%C3%B6z%C3%A9s_el%C5%91tti_teend%C5%91_lista/) - Reddit post + kommentek
 - [Segítség külföldre költözőknek a magyar TB rendezésével](https://www.reddit.com/r/escapehungary/comments/10qt9fl/seg%C3%ADts%C3%A9g_k%C3%BClf%C3%B6ldre_k%C3%B6lt%C3%B6z%C5%91knek_a_magyar_tb/) - Reddit post + kommentek
 - [Általános tudnivalók az Ausztriában letelepedni, munkát vállalni szándékozók számára](https://www.facebook.com/legacy/notes/223544387833390/)
+- [Wien-Bécs-Vienna Magyaroknak](https://www.facebook.com/groups/wien.magyaroknak/)
 - [Külföldi letelepedés bejelentése](https://becs.mfa.gov.hu/page/kuelfoeldi-letelepedes-bejelentese) - Bécsi Nagykövetség
 
 [Fel ↑](#top)
