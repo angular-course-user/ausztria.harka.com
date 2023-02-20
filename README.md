@@ -315,7 +315,7 @@ Nekünk egy gyermekünk sem kint született – ebből a szempontból sajnos. M�
 - [https://www.wien.gv.at/english/](https://www.wien.gv.at/english/)
 - [Élni és dolgozni Ausztriában](https://becs.mfa.gov.hu/page/altalanos-tudnivalok-az-ausztriaban-letelepedni-munkat-vallalni-szandekozok-szamara) - Bécsi Nagykövetség
 - [Anwaltneudoerfler](https://www.facebook.com/anwaltneudoerfler) - Jogi és egyéb jó tanácsok
-- [Reddit Rot-Weiß-Rot](https://www.reddit.com/r/Austria/wiki/vienna/) - Reddit Austria wiki
+- [Reddit Rot-Weiß-Rot](https://www.reddit.com/r/austria/wiki/index/#wiki_living_here/) - Reddit Austria wiki
 - [Nachrichten über/aus/von Wien](https://www.reddit.com/r/wien/wiki/index/) - Reddit Vienna wiki
 - [The ultimate expat career guide to Austria](https://www.facebook.com/groups/austria.english.speakers/posts/1132079424128700/)
 - [The Vienna Expat survival guide: 13 ultimate tips for internationals moving to, or living in Vienna](https://www.reddit.com/r/wien/comments/64yhfk/the_vienna_expat_survival_guide_13_ultimate_tips/)
